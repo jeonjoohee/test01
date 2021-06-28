@@ -8,6 +8,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
-	마스터에서 마이페이지를 수정함. 
+	새롭게 시도한 마이페이지
 </body>
 </html>
